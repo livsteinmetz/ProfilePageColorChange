@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "Profile Page Color Change",
+  "description": "Use CSS and HTML to adjust the theme of this profile page by changing the colors used for headings, buttons, and backgrounds. The designer left you instructions in the README.MD file with hex values for each of the new theme colors. They also included an image of what the new website should look like after you are done. Everything is ready for you in the GitHub repo!",
+  "content": ["HTML", "CSS"],
+  "difficulty": 1,
+  "githubUrl": "https://github.com/HelloTidBytes/ProfilePageColorChange"
+}
