@@ -7,6 +7,8 @@ and I really want to update the colors on the site to make it less dark.
 
 I put some screenshots in this folder that show what I want the site
 to look like when you're done, so hopefully that should help.
+![Starter Code](https://github.com/HelloTidBytes/ProfilePageColorChange/blob/master/starter_code_desktop.png?raw=true)
+![Finished Request](https://github.com/HelloTidBytes/ProfilePageColorChange/blob/master/request_desktop.png?raw=true)
 
 Here are the colors I'd like to use:
 
